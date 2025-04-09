@@ -1,0 +1,6 @@
+train: /Users/samansiddiqui/Desktop/yolov10/custom_dataset/train/images
+val: /Users/samansiddiqui/Desktop/yolov10/custom_dataset/valid/images
+test: /Users/samansiddiqui/Desktop/yolov10/custom_dataset/test/images
+
+nc: 1  # Number of classes
+names: ["license"]
